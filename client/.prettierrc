@@ -1,4 +1,3 @@
-{
-  "singleQuote": true,
-  "trailingComma": "all"
-}
+module.exports = {
+    plugins: ["prettier-plugin-tailwindcss"],
+  };
